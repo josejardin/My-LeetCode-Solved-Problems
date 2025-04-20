@@ -2,6 +2,8 @@
 # My Leetcode Solved Problems!
 
 If you want something to study or learn the basics, these are my solved problems in leetcode from easy to medium to hard. Or maybe you can visit my leetcode profile.
+Leetcode Profile: https://leetcode.com/u/josejardin/
+
 ## Tech Stack
 
 **Programming Language:** Python
